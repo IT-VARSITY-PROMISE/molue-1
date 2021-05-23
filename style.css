@@ -1,0 +1,19 @@
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: groove;
+    border-color: purple;
+}
+th{
+    font-weight: 1300;
+    background-color: white;
+    color: purple;
+}
+
+body{
+    background: navy;
+}
+th{
+    text-decoration-color: blueviolet;
+}
